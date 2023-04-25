@@ -1,2 +1,2 @@
-# Miniproyecto-Visualizaci-n-
+# Miniproyecto-Visualizacion
 Miniproyecto Visualización 
